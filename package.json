@@ -1,0 +1,19 @@
+{
+  "name": "day0-web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Clinton",
+  "license": "MIT",
+  "dependencies": {
+    "tinyreq": "^3.2.0"
+  },
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "cheerio-req": "^1.1.2",
+    "scrape-it": "^3.2.2"
+  }
+}
